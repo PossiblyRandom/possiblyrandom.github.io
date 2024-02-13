@@ -6,7 +6,7 @@ body {
 .header{
     background-color: #3d3d3d;
     border: 3px solid white;
-    border-radius: 40px 0px;
+    border-radius: 60px 10px;
     text-align: center;
     padding-bottom: 2px;
     z-index: 2;
@@ -15,11 +15,17 @@ body {
 .large {
     font-family: 'Helvetica', sans-serif;
     font-size: 120px;
-    color: rgb(223, 223, 223);
+    color: rgb(191, 191, 191);
 }
 
 .small{
     font-family: 'Trebuchet MS', sans-serif;
     font-size: 30px;
-    color: rgb(189, 189, 189);
+    color: rgb(148, 148, 148);
+}
+
+.name{
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 30px;
+    color: rgb(255, 255, 255);
 }
